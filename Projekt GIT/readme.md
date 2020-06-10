@@ -2,7 +2,7 @@
 Project for getting to know GIT with support software.
 
 ##Source:
-[![alt text](https://con.jaktestowac.pl/wp-content/uploads/brand/jaktestowac_small.png)](https://jaktestowac/git-dla-testerow)
+[![alt text](https://con.jaktestowac.pl/wp-content/uploads/brand/jaktestowac_small.png)](https://jaktestowac.pl/git-dla-testerow)
 
 ##Technologies:
 - Git V2.20
