@@ -10,3 +10,5 @@ Project for getting to know GIT with support software.
 -  Python 3.6.9
 -  Linux 4.15.0-101-generic
  
+ ##External platfrom
+ [GitHub](https://github.com/emamaj)

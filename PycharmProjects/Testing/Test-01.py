@@ -6,3 +6,4 @@ print('My name is %s and I am working at the %s!' % (name, workplace))
 
 print('My name is {}!'.format(name))
 print('My name is {}!'.format('Bob'))
+print('My name is')
