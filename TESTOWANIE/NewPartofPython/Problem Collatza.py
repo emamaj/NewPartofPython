@@ -21,3 +21,4 @@ try:
             break
 except ValueError:
     print('Musisz podać liczbę całkowitą')
+    print('')
